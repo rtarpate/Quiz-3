@@ -37,14 +37,17 @@ namespace Quiz_3
             }
             else if (number2 > number1) 
             {
-                number2 > number3
+                number2 > number3;
 
-               double largestnumber = number2
+                double largestnumber = number2;
 
             }
             else if(number3 > number1)
             {
-                number
+                number3 > number2;
+
+                double largestnumber = number3;
+
             }
 
              //calulates the largest number out of the frist two input
